@@ -1,0 +1,66 @@
+body {
+    background-image: url(/img/training-g1d56b5422_1920.jpg);
+    color: white;
+    
+}
+
+.container-fluid {
+    display: flex;
+    justify-content:space-between;
+    
+    margin-top: 30px;
+    
+    
+    
+
+}
+
+
+
+
+.menu{
+    margin: 50px;
+    padding: 75px;
+    width: 40%;
+     
+
+    /* border: 5px solid white; */
+}
+.enter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px
+    
+}
+.form-group input {
+   
+   padding-left: 30px;
+   padding-right: 30px;
+    text-align: center;
+    border-radius: 10px;
+    
+   
+}
+
+.get-in-touch {
+    
+     margin-top: 10px;
+     font-size: 120%; 
+     color: purple;
+     justify-content:center; 
+     align-items: center;
+     border-top: 3px solid red;
+     border-bottom: 3px solid red;
+    
+
+
+}
+
+ button {
+    margin-top: 10px;
+    padding-left: 30px;
+   padding-right: 30px;
+   border-radius: 20px;
+} 
